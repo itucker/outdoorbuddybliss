@@ -1,12 +1,13 @@
 # Product Memo — OutdoorBuddyBliss (Draft)
 
 ## One-line summary
-OutdoorBuddyBliss helps outdoor enthusiasts discover, book, and share curated local outdoor experiences with simpler planning and better social coordination.
+OutdoorBuddyBliss helps people who love the outdoors time their activities to perfection. Whether it's gardening, hiking, or biking OutdoorBuddyBliss will give users the information they need to feel confident in when to start and when to end. 
 
 ## Problem
-- Enthusiasts spend too much time researching routes, permissions, and gear.
-- Coordinating friends and sharing real-world trip plans is fragmented across apps.
-- Local businesses struggle to reach outdoor customers with curated offerings.
+- Knowing when to start or end an activity based on complicated weather data is frustrating.
+- Overplanning can lead to overpacking
+- Understanding weather changes over time (particurarly in shoulder seasons) makes it hard to maximize time outside.
+- Knowing when to start growing or winter prepping is a research project on its own.
 
 ## Target users
 - Weekend hikers and day-trip planners (18–55)
