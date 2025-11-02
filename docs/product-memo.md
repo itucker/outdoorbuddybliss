@@ -9,27 +9,27 @@ OutdoorBuddyBliss helps people who love the outdoors time their activities to pe
 - Understanding weather changes over time (particurarly in shoulder seasons) makes it hard to maximize time outside.
 - Knowing when to start growing or winter prepping is a research project on its own.
 
-## Target users
-- Weekend hikers and day-trip planners (18–55)
-- Small guided-tour operators and local outfitters
-- Friend groups who organize outdoor activities
+## User Personas
+- Hikers
+- Gardeners
+- Bikers
+- Runners
 
 ## Proposed solution
-A web & mobile-first product that:
-- Curates nearby trails, experiences, and vetted guides
-- Lets users create trip plans, invite friends, and manage equipment/checklists
-- Provides a marketplace/connectivity layer for small operators
+Mobile-first product that:
+- Empowers users to make critical decisions about their outdoor behaviors.
+- Ranks weather for particular activities using emojis
+- Provides forecasts on temperature and precipitation
+- Provides a seasonal (high-level) forecast for the season. 
 
 ## Key benefits
-- Faster trip planning
-- Improved safety & preparedness (checklists, route info)
-- Revenue channel for local operators
+- Fun, simple, and engaging
+- Improved preparedness
+  
 
 ## Success metrics (first 6 months)
 - DAUs/MAUs ratio >= 20%
-- Average trip plans created per week ≥ 0.5 per active user
-- Conversion rate for bookings via platform ≥ 3%
-- Partner onboarding: 25 local operators in pilot city
+
 
 ## High-level timeline (MVP)
 - Month 0–1: Product discovery, partner outreach, basic UX flows
